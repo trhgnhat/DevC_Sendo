@@ -1,0 +1,12 @@
+bs4
+lxml
+implicit
+scipy
+flask
+flask-jsonpify
+flask-sqlalchemy
+flask-restful
+sqlalchemy
+numpy
+pandas
+selenium
